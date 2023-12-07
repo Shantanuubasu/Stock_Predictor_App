@@ -92,7 +92,7 @@ training_dt_arr=scaler.fit_transform(training_dt)
 
 
 #Load the Model
-model=load_model('stock_model.keras')
+model=load_model('stock_model.h5')
 
 
 #Testing Part
