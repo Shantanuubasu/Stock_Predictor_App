@@ -1,3 +1,5 @@
+<img width="960" alt="image" src="https://github.com/Shantanuubasu/Stock_Predictor_App/assets/97277717/f37335c7-e0f4-4eec-99c6-a5821e7c121e">
+
 # Stock_Predictor_App
 Streamlit App for Predicting Stock Prices using historical data
 /****************************************************************************************************************************/
